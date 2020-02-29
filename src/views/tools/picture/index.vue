@@ -113,7 +113,8 @@ export default {
       dialog: false,
       syncLoading: false,
       headers: {
-        'Authorization': getToken()
+        'Authorization': getToken(),
+        'X-Request-Id': 'eladmin-system'
       },
       permission: {
         del: ['admin', 'pictures:del']

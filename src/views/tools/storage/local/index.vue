@@ -134,7 +134,10 @@ export default {
     return {
       delAllLoading: false,
       loading: false,
-      headers: { 'Authorization': getToken() },
+      headers: {
+        'Authorization': getToken(),
+        'X-Request-Id': 'eladmin-system'
+      },
       permission: {
         edit: ['admin', 'storage:edit'],
         del: ['admin', 'storage:del']
