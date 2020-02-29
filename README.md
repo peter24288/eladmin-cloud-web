@@ -1,13 +1,13 @@
-# ELADMIN-WEB
+# ELADMIN-CLOUD-WEB
 
-ELADMIN 前端源码
+ELADMIN-CLOUD-WEB 前端源码
 
 #### 项目源码
 
-|     |   后端源码  |   前端源码  |
-|---  |--- | --- |
-|  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-web   |
-|  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-web   |
+   github   
+   后端源码：https://github.com/peter24288/eladmin-cloud   
+   前端源码：https://github.com/peter24288/eladmin-cloud-web
+
 
 #### 开发文档
 [https://docs.auauz.net/#/](https://docs.auauz.net/#/)
@@ -32,4 +32,20 @@ npm run build
 
 #### 反馈交流
 
-- QQ交流群：891137268
+- 个人QQ：68521817、71876181
+
+#### 特别说明：
+本项目参考eladmin项目源码，把spring boot架构升级spring Cloud，建议初学者先学习eladmin开发文档如下：
+
+**开发文档：**  [https://docs.auauz.net/](https://docs.auauz.net)
+
+**体验地址：**  [https://auauz.net/](https://auauz.net/)
+
+**账号密码：** `admin/123456` (默认密码都是123456)
+
+#### 项目源码
+
+|     |   后端源码  |   前端源码  |
+|---  |--- | --- |
+|  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-web   |
+|  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-web   |
